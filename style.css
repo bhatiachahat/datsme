@@ -248,14 +248,14 @@ background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+
      #mobile_1{
 background-color:#F4F4F4;
 height:100vh;
-background-image: url("https://www.datsme.io/screens/location3.png");
+background-image: url("./location3.png");
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: left center;
      }
      #mobile_2{
         height:100vh;
-        background-image: url("https://www.datsme.io/screens/compatibility.png");
+        background-image: url("./compatibility.png");
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: left center;
@@ -263,14 +263,14 @@ background-position: left center;
     #mobile_3{
         background-color:#F4F4F4; 
         height:100vh;
-        background-image: url("https://www.datsme.io/screens/ask_what_matters.png");
+        background-image: url("./ask_what_matters.png");
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: left center;
     }
     #mobile_4{
         height:100vh;
-        background-image: url("https://www.datsme.io/screens/chat.png");
+        background-image: url("./chat.png");
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: left center;
